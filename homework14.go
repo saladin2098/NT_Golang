@@ -94,4 +94,5 @@ func main() {
 	// ev3 := Event{"lesson",time.Date(2024,04,16,14,0,0,0,time.UTC)}
 	// user1.addEvent(ev3)
 	fmt.Println(user1.checkForDate())
+        // my change
 }
