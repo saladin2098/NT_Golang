@@ -8,5 +8,5 @@ func Date(date chan time.Time) {
 	go main(chan1)
 }
 func main(date chan time.Time) {
-	
+	fmt.Println("salom")
 }
