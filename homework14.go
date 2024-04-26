@@ -95,4 +95,5 @@ func main() {
 	// user1.addEvent(ev3)
 	fmt.Println(user1.checkForDate())
         // my change
+        fmt.Println(" ")
 }
